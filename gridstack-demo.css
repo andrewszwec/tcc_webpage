@@ -1,11 +1,17 @@
 header a, header a:hover { color: #fff; }
 
-.darkblue { background: #2c3e50; color: #fff; }
+.darkblue { background: #28384e; color: #fff; }
 .darkblue hr.star-light::after {
-    background-color: #2c3e50;
+    background-color: #28384e;
 }
 
 .pink { background: #f75e5e; color: #fff; }
 .pink hr.star-light::after {
     background-color: #f75e5e;
+
+
 }
+
+.lightblue { background: #adb9cc; color: #fff; }
+.lightblue hr.star-light::after {
+    background-color: #adb9cc;
