@@ -26,13 +26,13 @@ a.active {
 }
 
 h1,
-h2,
+h2 {font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;},
 h3,
 h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -80,20 +80,20 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     color: #fff;
     background: #28384e;
 }
 
 header .container {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 20;
+    padding-bottom: 20px;
 }
 
 header .container .quote {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -108,7 +108,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -116,7 +116,7 @@ header .intro-text .name {
 header .intro-text .slogan {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 1.75em;
     font-weight: 700;
 }
@@ -126,10 +126,11 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+
 @media(min-width:768px) {
     header .container {
-        padding-top: 200px;
-        padding-bottom: 100px;
+        padding-top: 100px;
+        padding-bottom: 50px;
     }
 
     header .intro-text .name {
@@ -169,7 +170,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -190,8 +191,11 @@ header .intro-text .skills {
     border: 0;
 }
 
+
+
 section {
-    padding: 100px 0;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 section h2 {
@@ -203,6 +207,11 @@ section.success {
     color: #fff;
     background: #f75e5e;
 }
+
+section.border {
+    padding: 100px 0;
+}
+
 
 @media(max-width:767px) {
     section {
@@ -247,7 +256,7 @@ section.success {
     width: 100%;
     height: 20px;
     margin-top: -12px;
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     color: #fff;
 }
@@ -364,7 +373,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #adb9cc;
+    background-color: #28384e;
 }
 
 .btn-social {
@@ -467,6 +476,7 @@ footer .footer-below {
 /* Table Formatting */
 table, th, td {
     border-collapse: collapse;
+    font-family: "Kohinoor Bangla Regular", Montserrat, Arial
 }
 th, td {
     padding: 15px;

@@ -1,17 +1,22 @@
 header a, header a:hover { color: #fff; }
 
-.darkblue { background: #28384e; color: #fff; }
+.darkblue { background: #28384e; color: #fff; padding: 100px 0; font-family: "Kohinoor Bangla Regular", Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;}
 .darkblue hr.star-light::after {
     background-color: #28384e;
 }
 
-.pink { background: #f75e5e; color: #fff; }
+.pink { background: #f75e5e; color: #fff; padding: 100px 0;}
 .pink hr.star-light::after {
     background-color: #f75e5e;
-
-
 }
 
-.lightblue { background: #adb9cc; color: #fff; }
+.lightblue { background: #adb9cc; color: #fff; padding: 100px 0;}
 .lightblue hr.star-light::after {
     background-color: #adb9cc;
+}
+
+.lightblue_no_border { background: #adb9cc; color: #fff; } 
+
+
+
+.lightgrey { background: #f1f2f2; color: #000; padding: 100px 0;}
