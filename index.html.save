@@ -99,10 +99,10 @@
             <table style="width:100%">
                 <tr>
                     <td width="20%" align="center">
-        	        <img src="images/andy.jpg" class="w3-circle" alt="Andrew" style="width:200px;">
-		    </td>
+                      <img src="images/matty.jpg" class="w3-circle" alt="Matt" style="width:200px;">
+                    </td>
                     <td width="20%" align="center">
-                        <img src="images/matty.jpg" class="w3-circle" alt="Matt" style="width:200px;">
+                        <img src="images/andy.jpg" class="w3-circle" alt="Andrew" style="width:200px;">
                     </td>
                     <td width="20%" align="center">
                           <img src="images/craig.png" class="w3-circle" alt="Craig" style="width:200px;">
@@ -116,14 +116,14 @@
                     <td width="20%" valign="top">
                         <h3>Andrew Szwec</h3>
                         <h5>CEO</h5>
-                        <p><small>Andrew has a background in management consulting and successfully delivering large scale machine learning projects. </small></p>
+                        <p><small>Andrew has a background in management consulting, data science and deep learning algorithms. </small></p>
                     
                     </td>
 		    
 		    <td width="20%" valign="top">
                         <h3>Matthew Szwec</h3>
                         <h5>CFO</h5>
-                        <p><small>Matthew has a background in executing and implementing multi-million dollar projects in the minerals industry and has a passion for technology.</small></p>
+                        <p><small>Matthew has a background in executing and implementing large scale, multi-million dollar projects in the minerals industry and has a passion for technology.</small></p>
                     </td>
 
                     <td width="20%" valign="top">
